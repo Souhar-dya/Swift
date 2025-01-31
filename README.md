@@ -1,4 +1,4 @@
-# Urban Mobility and Route Optimization 🚗🌍 (Swift)
+# Swift 🚗🌍 (Urban Mobility and Route Optimization)
 # Smart Mobility, Swiftly Delivered
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
@@ -16,8 +16,8 @@ Urbanization is accelerating, and with it comes the challenges of traffic conges
 
 1. **Optimize Delivery Routes**: Reduce delivery times, fuel consumption, and operational costs for businesses.
 2. **Improve Urban Mobility**: Provide actionable insights for city planners to manage traffic flow and enhance public transport efficiency.
-3. **Promote Sustainability**: Integrate Air Quality Index (AQI) data to encourage eco-friendly routing and reduce carbon emissions.
-4. **Enhance Safety**: Identify accident-prone areas and provide safer routes for drivers and citizens.
+3. **Enhance Safety**: Identify accident-prone areas and provide safer routes for drivers and citizens.
+4. **Promote Sustainability**: Integrate Air Quality Index (AQI) data to encourage eco-friendly routing and reduce carbon emissions.
 
 By addressing these issues, we aim to create a **smarter, greener, and safer urban future**.
 
@@ -27,7 +27,6 @@ By addressing these issues, we aim to create a **smarter, greener, and safer urb
 - **Real-Time Route Optimization**: Dynamically adjust delivery routes based on traffic, weather, and AQI data.
 - **Traffic Pattern Analysis**: Identify congestion hotspots and predict future traffic conditions using AI.
 - **Public Transport Optimization**: Analyze public transport usage to improve efficiency and reduce wait times.
-- **AQI Integration**: Provide eco-friendly routing options to minimize environmental impact.
 - **Safety Insights**: Analyze accident data to identify high-risk areas and suggest safer routes.
 
 ---
@@ -44,10 +43,10 @@ We used a combination of modern technologies to build this solution:
 
 ## Team Tesseract
 We are **Team Tesseract**, a group of passionate developers and problem-solvers. Our team members are:
-- **Daksh Khandelwal**: Backend Developer and Data Analyst.
-- **Debanshu Priyadarshan Prusty**: Machine Learning Engineer and AI Specialist.
-- **Shiuli Tripathi**: Frontend Developer and UI/UX Designer.
-- **Souhardya Kundu**: Full-Stack Developer and Project Coordinator.
+- **Daksh Khandelwal**
+- **Debanshu Priyadarshan Prusty**
+- **Shiuli Tripathi**
+- **Souhardya Kundu**
 
 Each member brought their unique skills to the table, ensuring that our solution is both **technically robust** and **user-friendly**.
 
